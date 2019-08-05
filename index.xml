@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chase Zimmerman</title>
+    <link>https://chaseklvk.github.io/</link>
+      <atom:link href="https://chaseklvk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chase Zimmerman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Chase Zimmerman</copyright><lastBuildDate>Sun, 04 Aug 2019 12:43:43 -0700</lastBuildDate>
+    <image>
+      <url>https://chaseklvk.github.io/img/icon-192.png</url>
+      <title>Chase Zimmerman</title>
+      <link>https://chaseklvk.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Packet2Vec</title>
+      <link>https://chaseklvk.github.io/publication/packet2vec/</link>
+      <pubDate>Sun, 04 Aug 2019 12:43:43 -0700</pubDate>
+      <guid>https://chaseklvk.github.io/publication/packet2vec/</guid>
+      <description>
+
+&lt;h2 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;One of deep learning’s attractive benefits is the ability to automatically extract relevant features for a target problem from largely raw data, instead of utilizing human engineered and error prone hand-crafted features. While deep learning has shown success in fields such as image classification and natural language processing, its application for feature extraction on raw network packet data for intrusion detection is largely unexplored. In this paper we modify a Word2Vec approach, used for text processing, and apply it to packet data for automatic feature extraction. We call this approach Packet2Vec. For the classification task of benign versus malicious traffic on a 2009 DARPA network data set, we obtain an area under the curve (AUC) of the receiver operating characteristic (ROC) between 0.988-0.996 and an AUC of the Precision/Recall curve between 0.604-0.667.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

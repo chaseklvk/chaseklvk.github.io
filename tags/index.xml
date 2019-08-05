@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Chase Zimmerman</title>
+    <link>https://chaseklvk.github.io/tags/</link>
+      <atom:link href="https://chaseklvk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Chase Zimmerman</copyright><lastBuildDate>Sun, 04 Aug 2019 12:43:43 -0700</lastBuildDate>
+    <image>
+      <url>https://chaseklvk.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://chaseklvk.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://chaseklvk.github.io/tags/deep-learning/</link>
+      <pubDate>Sun, 04 Aug 2019 12:43:43 -0700</pubDate>
+      <guid>https://chaseklvk.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Extraction</title>
+      <link>https://chaseklvk.github.io/tags/feature-extraction/</link>
+      <pubDate>Sun, 04 Aug 2019 12:43:43 -0700</pubDate>
+      <guid>https://chaseklvk.github.io/tags/feature-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intrusion Detection</title>
+      <link>https://chaseklvk.github.io/tags/intrusion-detection/</link>
+      <pubDate>Sun, 04 Aug 2019 12:43:43 -0700</pubDate>
+      <guid>https://chaseklvk.github.io/tags/intrusion-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Packet Data</title>
+      <link>https://chaseklvk.github.io/tags/packet-data/</link>
+      <pubDate>Sun, 04 Aug 2019 12:43:43 -0700</pubDate>
+      <guid>https://chaseklvk.github.io/tags/packet-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word2Vec</title>
+      <link>https://chaseklvk.github.io/tags/word2vec/</link>
+      <pubDate>Sun, 04 Aug 2019 12:43:43 -0700</pubDate>
+      <guid>https://chaseklvk.github.io/tags/word2vec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
