@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intrusion Detection | Chase Zimmerman</title>
-    <link>https://chaseklvk.github.io/tags/intrusion-detection/</link>
-      <atom:link href="https://chaseklvk.github.io/tags/intrusion-detection/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thechase.io/tags/intrusion-detection/</link>
+      <atom:link href="https://thechase.io/tags/intrusion-detection/index.xml" rel="self" type="application/rss+xml" />
     <description>Intrusion Detection</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Chase Zimmerman</copyright><lastBuildDate>Sun, 04 Aug 2019 12:43:43 -0700</lastBuildDate>
     <image>
-      <url>https://chaseklvk.github.io/img/icon-192.png</url>
+      <url>https://thechase.io/img/icon-192.png</url>
       <title>Intrusion Detection</title>
-      <link>https://chaseklvk.github.io/tags/intrusion-detection/</link>
+      <link>https://thechase.io/tags/intrusion-detection/</link>
     </image>
     
     <item>
       <title>Packet2Vec</title>
-      <link>https://chaseklvk.github.io/publication/packet2vec/</link>
+      <link>https://thechase.io/publication/packet2vec/</link>
       <pubDate>Sun, 04 Aug 2019 12:43:43 -0700</pubDate>
-      <guid>https://chaseklvk.github.io/publication/packet2vec/</guid>
+      <guid>https://thechase.io/publication/packet2vec/</guid>
       <description>
 
 &lt;h2 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/h2&gt;

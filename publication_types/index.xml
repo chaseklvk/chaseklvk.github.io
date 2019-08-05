@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Chase Zimmerman</title>
-    <link>https://chaseklvk.github.io/publication_types/</link>
-      <atom:link href="https://chaseklvk.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thechase.io/publication_types/</link>
+      <atom:link href="https://thechase.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Chase Zimmerman</copyright>
     <image>
-      <url>https://chaseklvk.github.io/img/icon-192.png</url>
+      <url>https://thechase.io/img/icon-192.png</url>
       <title>Publication_types</title>
-      <link>https://chaseklvk.github.io/publication_types/</link>
+      <link>https://thechase.io/publication_types/</link>
     </image>
     
   </channel>

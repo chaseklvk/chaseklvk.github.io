@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Chase Zimmerman</title>
-    <link>https://chaseklvk.github.io/authors/</link>
-      <atom:link href="https://chaseklvk.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thechase.io/authors/</link>
+      <atom:link href="https://thechase.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Chase Zimmerman</copyright><lastBuildDate>Sun, 04 Aug 2019 12:43:43 -0700</lastBuildDate>
     <image>
-      <url>https://chaseklvk.github.io/img/icon-192.png</url>
+      <url>https://thechase.io/img/icon-192.png</url>
       <title>Authors</title>
-      <link>https://chaseklvk.github.io/authors/</link>
+      <link>https://thechase.io/authors/</link>
     </image>
     
     <item>
       <title>C.Hudson</title>
-      <link>https://chaseklvk.github.io/authors/c.hudson/</link>
+      <link>https://thechase.io/authors/c.hudson/</link>
       <pubDate>Sun, 04 Aug 2019 12:43:43 -0700</pubDate>
-      <guid>https://chaseklvk.github.io/authors/c.hudson/</guid>
+      <guid>https://thechase.io/authors/c.hudson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C.Zimmerman</title>
-      <link>https://chaseklvk.github.io/authors/c.zimmerman/</link>
+      <link>https://thechase.io/authors/c.zimmerman/</link>
       <pubDate>Sun, 04 Aug 2019 12:43:43 -0700</pubDate>
-      <guid>https://chaseklvk.github.io/authors/c.zimmerman/</guid>
+      <guid>https://thechase.io/authors/c.zimmerman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E.L.Goodman</title>
-      <link>https://chaseklvk.github.io/authors/e.l.goodman/</link>
+      <link>https://thechase.io/authors/e.l.goodman/</link>
       <pubDate>Sun, 04 Aug 2019 12:43:43 -0700</pubDate>
-      <guid>https://chaseklvk.github.io/authors/e.l.goodman/</guid>
+      <guid>https://thechase.io/authors/e.l.goodman/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://chaseklvk.github.io/authors/chase/</link>
+      <link>https://thechase.io/authors/chase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chaseklvk.github.io/authors/chase/</guid>
+      <guid>https://thechase.io/authors/chase/</guid>
       <description>&lt;p&gt;Hi! I’m a senior at the University of Southern California studying Computer Engineering, Computer Science and Physics. I enjoy exploring new technology, flying airplanes, and various other motorsports. I’ve been programming since I was a freshman in high school and over the last several years I’ve experimented with a little bit of everything. I have experience with programming languages such as C/C++, Python, Javascript, and Assembly. I have also worked in/with Linux systems administration, cluster management/containerization with Docker, common SQL/noSQL databases, and UI technologies like ReactJS. Beyond computer science I enjoy studying physics and mathematics.&lt;/p&gt;
 
 &lt;p&gt;I currently work as a research intern at Sandia National Laboratories. I conduct research in machine learning as it relates to cyber security (See Resume for further details). While my current research is in a specific field, my interest in ML/AI and its application is more broad. I am also interested in several other fields like hardware acceleration and quantum computing.&lt;/p&gt;
