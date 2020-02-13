@@ -5,7 +5,7 @@
     <link>https://thechase.io/tags/packet-data/</link>
       <atom:link href="https://thechase.io/tags/packet-data/index.xml" rel="self" type="application/rss+xml" />
     <description>Packet Data</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Chase Zimmerman</copyright><lastBuildDate>Sun, 04 Aug 2019 12:43:43 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chase Zimmerman</copyright><lastBuildDate>Sun, 04 Aug 2019 12:43:43 -0700</lastBuildDate>
     <image>
       <url>https://thechase.io/img/icon-192.png</url>
       <title>Packet Data</title>
@@ -17,10 +17,7 @@
       <link>https://thechase.io/publication/packet2vec/</link>
       <pubDate>Sun, 04 Aug 2019 12:43:43 -0700</pubDate>
       <guid>https://thechase.io/publication/packet2vec/</guid>
-      <description>
-
-&lt;h2 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/h2&gt;
-
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;One of deep learning’s attractive benefits is the ability to automatically extract relevant features for a target problem from largely raw data, instead of utilizing human engineered and error prone hand-crafted features. While deep learning has shown success in fields such as image classification and natural language processing, its application for feature extraction on raw network packet data for intrusion detection is largely unexplored. In this paper we modify a Word2Vec approach, used for text processing, and apply it to packet data for automatic feature extraction. We call this approach Packet2Vec. For the classification task of benign versus malicious traffic on a 2009 DARPA network data set, we obtain an area under the curve (AUC) of the receiver operating characteristic (ROC) between 0.988-0.996 and an AUC of the Precision/Recall curve between 0.604-0.667.&lt;/p&gt;
 </description>
     </item>
