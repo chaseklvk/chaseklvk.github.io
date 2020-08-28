@@ -3,88 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://thechase.io/authors/</loc>
-    <lastmod>2019-08-04T12:43:43-07:00</lastmod>
+    <loc>/cv/</loc>
   </url>
   
   <url>
-    <loc>https://thechase.io/authors/c.hudson/</loc>
-    <lastmod>2019-08-04T12:43:43-07:00</lastmod>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://thechase.io/authors/c.zimmerman/</loc>
-    <lastmod>2019-08-04T12:43:43-07:00</lastmod>
+    <loc>/tags/</loc>
   </url>
   
   <url>
-    <loc>https://thechase.io/</loc>
-    <lastmod>2019-08-04T12:43:43-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thechase.io/tags/deep-learning/</loc>
-    <lastmod>2019-08-04T12:43:43-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thechase.io/authors/e.l.goodman/</loc>
-    <lastmod>2019-08-04T12:43:43-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thechase.io/tags/feature-extraction/</loc>
-    <lastmod>2019-08-04T12:43:43-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thechase.io/tags/intrusion-detection/</loc>
-    <lastmod>2019-08-04T12:43:43-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thechase.io/tags/packet-data/</loc>
-    <lastmod>2019-08-04T12:43:43-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thechase.io/publication/packet2vec/</loc>
-    <lastmod>2019-08-04T12:43:43-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thechase.io/publication/</loc>
-    <lastmod>2019-08-04T12:43:43-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thechase.io/tags/</loc>
-    <lastmod>2019-08-04T12:43:43-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thechase.io/tags/word2vec/</loc>
-    <lastmod>2019-08-04T12:43:43-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thechase.io/authors/chase/</loc>
-  </url>
-  
-  <url>
-    <loc>https://thechase.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://thechase.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://thechase.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://thechase.io/talk/</loc>
+    <loc>/</loc>
   </url>
   
 </urlset>
