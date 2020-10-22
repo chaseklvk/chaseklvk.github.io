@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>~ on Chase Zimmerman</title>
+    <title>~ on chase</title>
     <link>/</link>
-    <description>Recent content in ~ on Chase Zimmerman</description>
+    <description>Recent content in ~ on chase</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -17,6 +17,24 @@
       
       <guid>/cv/</guid>
       <description>XMin is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the blogdown book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal.</description>
+    </item>
+    
+    <item>
+      <title>About Hugo XMin</title>
+      <link>/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software/</guid>
+      <description>XMin is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the blogdown book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>Development of Novel Approaches to Anomaly Detection and Surety for Safeguards Data (In Preparation); Natacha Peter-Stein, David Farley, Constantin Brif, Nicholas Pattengale, Chase Zimmerman, Meghan Galiardi, Yifeng Gao, Jessica Lin, Mitchell Negus, Rachel Slaybaugh; Preceedings, 61st Annual Meeting of the Institute of Nuclear Materials Management. Acoustic Signatures in Metal Laser-Powder Bed Fusion (Accepted, delayed until 2021 due to COVID-19); Bradley Jared, David Saiz, Matthew Roach, Scott Jensen, Maher Salloum, Constantin Brif, Chase Zimmerman, Elaine Rhoades; 2021 Annual International Solid Freeform Fabrication Symposium.</description>
     </item>
     
   </channel>

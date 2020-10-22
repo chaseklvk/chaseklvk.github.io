@@ -7,7 +7,15 @@
   </url>
   
   <url>
+    <loc>/software/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/publications/</loc>
   </url>
   
   <url>

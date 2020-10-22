@@ -41,11 +41,31 @@ blockquote {
   padding: 3px 1em 3px;
 }
 
-table {
+
+/*table {
   margin: auto;
   border-top: 1px solid #666;
   border-bottom: 1px solid #666;
 }
-table thead th { border-bottom: 1px solid #ddd; }
-th, td { padding: 5px; }
-thead, tfoot, tr:nth-child(even) { background: #eee; }
+
+table thead th { border-bottom: 1px solid #ddd; } */
+th, td { padding: 3px 15px; font-weight:200; }
+/*thead, tfoot, tr:nth-child(even) { background: #eee; } */
+
+table { background: #eee; margin-bottom:20px; }
+
+a {
+  text-decoration: none;
+  color:#005cc5;
+}
+
+a:visited {
+  color:#005cc5;
+}
+
+
+
+/*
+h1, h2 {
+  color: #005cc5;
+}*/
